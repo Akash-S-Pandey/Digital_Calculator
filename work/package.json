@@ -1,0 +1,16 @@
+{
+  "name": "sttp_node",
+  "version": "1.0.0",
+  "description": "basics of node js",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [
+    "node",
+    "js",
+    "express"
+  ],
+  "author": "user",
+  "license": "ISC"
+}
